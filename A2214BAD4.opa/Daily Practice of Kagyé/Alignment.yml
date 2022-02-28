@@ -1,0 +1,19 @@
+segment_sources:
+  PE64D0625:
+    type: origin_type
+    relation: translation
+    language: en
+  P402E48F5:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  b88a3e71f6c4403d8c34aa37fe93f620:
+    PE64D0625: bcd22accbd364520a73ffce9dcf59847
+    P402E48F5: d34eaa3e66754f07bd4532276dc5ac55
+  b3b9dade7a8f4d20a757f52a3f55b8c1:
+    PE64D0625: c565d7e9a439460982eb6e0501f603c0
+    P402E48F5: 40f7066b95c645e0ab63e5517bd99ba3
+  e1339e0fa52c472689a05c6e9a84ba53:
+    PE64D0625: ccd8cb8629c64c33b0578df861ddf347
+    P402E48F5: 1826284671b84e639b4dc41cacb8059a

@@ -1,0 +1,28 @@
+segment_sources:
+  PE64D0625:
+    type: origin_type
+    relation: translation
+    language: en
+  P402E48F5:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  5c3c46f3062f4cdfa51e7f73c4c840b6:
+    PE64D0625: 41f45ee462074793acfd690ccd204026
+    P402E48F5: d83caa80cf3a45679a132b5c7f4decf9
+  f131b76dc50a4a10a6856532ca8cf583:
+    PE64D0625: f7953d6060954ba58e2717d26a47ece5
+    P402E48F5: a2c8311af5e2485591eda76e82061cb8
+  06a70aa1bc3c41eda7e0ace5dd16007a:
+    PE64D0625: beeef97b367e4ed9ab1b0136e1afa61a
+    P402E48F5: 625104fb6e204c0bb5ba2666550e6b25
+  0b200067ead947fb9db95df4bf8c9cea:
+    PE64D0625: a0879800cd5141468767889f152907a9
+    P402E48F5: 2ae0719ea3b049ecac4d8c9e5dc6233a
+  b5650770d7514cf2bdd3fc5a78a0ddac:
+    PE64D0625: 6eb15fe87beb49748f7e1b18b19a318a
+    P402E48F5: 777b88e0fbc14471af050ae22723060a
+  b23ea4376494411fabee02c39e4fa136:
+    PE64D0625: c94ffa0018c44f4d966fdcdd8450c25f
+    P402E48F5: e4c417048f1a431d95721f42b9a6131a
